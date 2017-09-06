@@ -1,0 +1,19 @@
+{
+  "name": "koa-typescript",
+  "version": "0.0.1",
+  "description": "A Koajs project built with Typescript template.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa",
+    "typescript",
+    "template",
+    "boilerplate",
+    "lempit",
+    "khaos"
+  ],
+  "author": "Budi Adiono <budiadiono@gmail.com>",
+  "license": "MIT"
+}
