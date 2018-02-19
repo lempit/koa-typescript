@@ -1,8 +1,9 @@
-import { IAppConfig } from "./index"
+import { IAppConfig } from './index'
 
 /**
  * Production/release configuration
  */
 export default <IAppConfig>{
-	port: process.env.PORT as any
+  // tslint:disable-next-line:no-any
+  port: process.env.PORT as any
 }

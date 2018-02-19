@@ -1,8 +1,8 @@
-import { IAppConfig } from "./index"
+import { IAppConfig } from './index'
 
 /**
  * Development configuration
  */
 export default <IAppConfig>{
-	port: 3000
+  port: 3000
 }
